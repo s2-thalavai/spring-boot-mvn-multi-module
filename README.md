@@ -1,0 +1,1 @@
+# s2-thalavai-spring-boot-mvn-multi-module
