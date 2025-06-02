@@ -1,10 +1,10 @@
-Build the Whole Project:
+<b>Build the Whole Project:</b>
 
-mvn clean install
+        mvn clean install
 
 
-Build a Specific Module:
+<b>Build a Specific Module:</b>
 
-mvn clean install -pl module-name -am
--pl: Build this module
--am: Also build its dependencies
+      mvn clean install -pl module-name -am
+      -pl: Build this module
+      -am: Also build its dependencies
