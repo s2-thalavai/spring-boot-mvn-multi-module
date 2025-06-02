@@ -61,7 +61,7 @@
 		<module>scheduler-module</module>
 		<module>domain-module</module>
 		<module>service-module</module>
-		<module>controller-module</module>
+		<module>web-module</module>
 	</modules>
 
 </project>
